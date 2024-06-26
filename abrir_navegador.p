@@ -6,4 +6,4 @@ CREATE "InternetExplorer.Application.1" chWeb.
 ASSIGN chWebAppl = chWeb:APPLICATION
 chWebAppl:VISIBLE = TRUE.
 
-chWebAppl:Navigate("www.google.com.br"). 
+chWebAppl:Navigate("google.com.br"). 
